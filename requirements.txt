@@ -1,0 +1,4 @@
+# 纯 CPU 依赖, 无需 GPU/CUDA, 无 LLM/大模型相关依赖
+pandas>=2.0
+openpyxl>=3.1
+matplotlib>=3.7
